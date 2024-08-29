@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 
-from Models import prediction
+from Used_Models import prediction
 
 # Set the page configuration
 st.set_page_config(page_title="RED WINE QUALITY PREDICTION", page_icon=":material/model_training:", layout="wide")
