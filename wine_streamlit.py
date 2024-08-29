@@ -49,9 +49,7 @@ with main_col:
     st.write("")
     st.markdown("## How it works")
     st.markdown("""
-    The objective of this project is to predict the quality of the red variants of the Portuguese wine "Vinho Verde" 
-    using physicochemical and sensory variables. The user enters the correct characteristics of the Portuguese wine 
-    "Vinho Verde" and makes a prediction.
+ Using the Portuguese Verde model, this website predicts wine quality based on user-entered features. Simply input the relevant information on the left to receive your wine's quality rating from 3 to 8.
     """)
  # Add a white line
     st.markdown("""
