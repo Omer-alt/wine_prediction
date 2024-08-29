@@ -3,7 +3,7 @@ scipy==1.11.1
 # scikit-learn==1.4.2
 # imbalanced-learn==0.10.1
 xgboost==2.1.1
-# streamlit==1.37.1
+streamlit==1.38.0
 # numpy==1.25.0
 
 
@@ -12,4 +12,4 @@ pandas==1.4.2
 
 
 scikit_learn==1.0.2
-streamlit==1.8.1
+# streamlit==1.8.1
