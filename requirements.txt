@@ -6,7 +6,7 @@ streamlit==1.37.1
 # numpy==1.25.0
 
 
-numpy==1.22.3
+numpy==1.26.0
 pandas==2.2.2
 
 
